@@ -8,7 +8,3 @@ int main(){
     system("pause"); // para o programa não fechar automaticamente
 
 }
-
-void main1() {
-    printf("Hello, World 2!\n\n");
-}
